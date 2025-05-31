@@ -1,0 +1,9 @@
+# Ignora el entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Pero permite estos archivos
+!main.py
+!requerimientos.txt
+!.gitignore
